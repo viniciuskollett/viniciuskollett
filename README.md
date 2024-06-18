@@ -4,15 +4,6 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciuskollett&show_icons=true&count_private=true&hide_border=true&title_color=FF6347&icon_color=FF0000&text_color=FA8072&bg_color=0d1117" alt="GitHub Status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuskollett&layout=compact&hide_border=true&title_color=FF6347&text_color=FA8072&bg_color=0d1117" />
-</div>
-
-<div align="center"> 
-<a href="https://instagram.com/viniciuskollett" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:vinii.kollett@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
  
   ### Minhas Habilidades:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
