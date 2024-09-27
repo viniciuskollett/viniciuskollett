@@ -7,7 +7,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,php,bootstrap,aws,azure,cs,py,flutter,java,html,css,postman,dart,docker,grafana,jquery,sass,selenium,swift,ts,dotnet,ruby" />
+    <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,php,bootstrap,aws,azure,cs,py,flutter,java,html,css,postman,dart,docker,grafana,jquery,sass,selenium,swift,ts,dotnet,ruby,aiscript,laravel,kotlin" />
   </a>
 </p>
 <div align="center">
@@ -19,14 +19,6 @@
   </a>
 </p>
 </div>
-<div align="center">
- <h1>Estudando no Momento:</h1>
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,laravel,kotlin,aiscript" />
-  </a>
-</p>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=viniciuskollett&theme=violet-punch&hide_border=true&border_radius=50&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 </div>
